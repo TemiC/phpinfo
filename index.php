@@ -1,3 +1,5 @@
 <?
 //phpinfo(); 
+
+echo 'Hello You !!!'
 ?>
